@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void xeploai(){
+void bai4(){
     double van, toan, anhvan;
     printf("nhap diem van: ");
     if (scanf("%lf", &van) != 1) {

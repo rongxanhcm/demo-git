@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-int main() {
+void bai3() {
     float a, b, c;
     printf("Giai phuong trinh bac 2 (ax^2 + bx + c = 0)\n");
     printf("Nhap he so a: ");
